@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Integrate;
+namespace Tests\Feature;
 
 use App\Packages\OAuth2\Models\Token;
 use Illuminate\Database\Eloquent\Builder;

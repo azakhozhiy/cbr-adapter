@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Integrate;
+namespace Tests\Feature;
 
 use App\Packages\CbrClient\CbrClient;
 use Tests\TestCase;
